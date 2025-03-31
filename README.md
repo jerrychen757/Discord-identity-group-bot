@@ -9,7 +9,7 @@
 
 ## 🔧 安裝與運行  
 
-### 1️⃣ 安裝 Node.js 與 Discord.js  
+1️⃣ 安裝 Node.js 與 Discord.js  
 請確保您的系統已安裝 [Node.js](https://nodejs.org/)，然後使用以下命令安裝所需套件：  
 
 ```bash
